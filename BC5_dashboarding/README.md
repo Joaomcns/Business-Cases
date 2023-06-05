@@ -91,6 +91,6 @@ No data was provided a priori.
     - the "key numbers" section of the dashboard is also not working due to recent changes in the yfinance API
     - for some reason streamlit cloud is not working properly,if you have streamlit and all the requirements installed you can go to the main folder and 
     run it locally with: 
-        ```
-    sreamlit run crypto_dashboard.py        
+    ```
+    > streamlit run crypto_dashboard.py 
     ```
