@@ -84,3 +84,13 @@ No data was provided a priori.
         * [Heroku](https://www.heroku.com/) - Medium difficulty, good learning experience
         * Any cloud service provider (AWS, Google Cloud, MS Azure etc. contain some
             limited free resources) - Complex, excellent learning experience
+            
+3. Notes : 
+    - some features like the live price do not work since yfinance has made some changes in the more recent versions
+    - the twitter API sentiment analysis is also not functional due to the change of ownership and introduction of API subscriptions
+    - the "key numbers" section of the dashboard is also not working due to recent changes in the yfinance API
+    - for some reason streamlit cloud is not working properly,if you have streamlit and all the requirements installed you can go to the main folder and 
+    run it locally with: 
+        ```
+    sreamlit run crypto_dashboard.py        
+    ```
