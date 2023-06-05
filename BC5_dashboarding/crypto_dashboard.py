@@ -3,7 +3,7 @@
 
 import sys
 #put your path to the clone repository
-sys.path.append('/home/joaomcns/Streamlit-Crypto-dashboard/scripts')
+sys.path.append('/home/joaomcns/Business-Cases/BC5_dashboarding/scripts')
 
 
 
